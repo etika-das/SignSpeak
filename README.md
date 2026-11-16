@@ -12,8 +12,7 @@ SignSpeak is a low-cost embedded system that translates five predefined English 
 
 ## Hardware Components
 - Arduino Uno R3
-- Five Flex Sensors
-- CD4051 Multiplexer
+- Four Flex Sensors
 - 10 kΩ Resistors
 - 16×2 I2C LCD
 - DFPlayer Mini
