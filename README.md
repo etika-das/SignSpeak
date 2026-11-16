@@ -30,10 +30,11 @@ The recognized gesture is displayed on the LCD, while the corresponding pre-reco
 ## Team
 **Project:** SignSpeak  
 **Team Members:**
-Etika Das
-Nusrat Nahar Nowrin
-Ripa Sharma
-Tamanna Sultana Tarin
+-Etika Das
+-Nusrat Nahar Nowrin
+-Ripa Sharma
+-Tamanna Sultana Tarin
+
 **Department:** Computer Science and Engineering  
 **Institution:** Port City International University
 
